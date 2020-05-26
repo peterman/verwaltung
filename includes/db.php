@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "usbw";
+$password = "Sanifar1!";
 $dbname = "vereinshaus";
 
 // Create connection
