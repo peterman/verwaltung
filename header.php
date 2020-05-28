@@ -24,8 +24,8 @@ include_once "includes/init.php";
 
                 <div class="collapse navbar-collapse navbar-right" id="navbar">
                   <ul class="navbar-nav">
-                    <li class="nav-item active">
-                      <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                    <li class="nav-item">
+                      <a class="nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" href="#">Link</a>

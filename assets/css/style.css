@@ -2,7 +2,15 @@ body {
     padding-top: 90px;
 }
 
-/* Credit to bootsnipp.com for the css for the color graph */
+.navbar-light .nav-item > .nav-link.active  {
+            color:white;
+            background-color: limegreen;
+            -webkit-border-radius: 10px;
+            -moz-border-radius: 10px;
+            border-radius: 10px;
+        }
+
+        /* Credit to bootsnipp.com for the css for the color graph */
 .colorgraph {
   height: 5px;
   border-top: 0;
