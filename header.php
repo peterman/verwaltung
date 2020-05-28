@@ -22,8 +22,8 @@ include_once "includes/init.php";
                   <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <div class="collapse navbar-collapse navbar-right" id="navbar">
-                  <ul class="navbar-nav">
+                <div class="collapse navbar-collapse" id="navbar">
+                  <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                       <a class="nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
