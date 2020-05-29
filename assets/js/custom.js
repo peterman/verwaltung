@@ -1,3 +1,14 @@
+$(function(){
+        $('.navbar-nav .nav-item').click(function(){
+            $('.navbar-nav .nav-link').removeClass('active');
+            $(this).addClass('active');
+            
+            
+        });
+        $('.navbar-collapse li').click(function(){ $(".navbar-collapse").collapse('hide');});
+        
+      });
+      
 $(function () {
     $('.button-checkbox').each(function () {
 

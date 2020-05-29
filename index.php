@@ -1,7 +1,7 @@
 <?php
 include_once "header.php";
 ?>
-
+<div class="container-xl">
 <div class="jumbotron">
 	<div class="alert alert-success" role="alert">
 		<?php if(logged_in()) {
@@ -13,7 +13,7 @@ include_once "header.php";
 	</div>
 	<h1 class="text-center"> Home </h1>
 </div>
-
+</div>
 <?php
 include_once "footer.php";
 ?>
